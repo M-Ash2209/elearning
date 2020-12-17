@@ -4,15 +4,15 @@
     id        = "com.phonegap.getting.started"
     version     = "1.0.0">
 
-    <name>umm: Unofficial Moodle Mobile app</name>
+    <name>EDVON eLEARNING App</name>
 
     <description>
-        A clone of the official Moodle Mobile app (iPhone)
+        EDVON eLearning Mobile App 
     </description>
 
-    <author href="http://twitter.com/jleyvadelgado"
-        email="juanleyvadelgado@gmail.com">
-        Juan Leyva
+    <author href="https://twitter.com/Muhamma03307889"
+        email="asharsaeed2209@gmail.com">
+        Muhammad Ashar
     </author>
 
     <gap:platforms>
